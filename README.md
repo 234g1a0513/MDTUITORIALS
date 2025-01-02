@@ -19,3 +19,4 @@ This is really***very***important text.
 </ol>
 ![Screen Shot](pic)
 ![Screen Shot](pic1)
+![Screen Shot](pic.png)
