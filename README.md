@@ -18,3 +18,4 @@ This is really***very***important text.
   <li>Fourth item</li>
 </ol>
 
+![screenshot](pic1.png)
