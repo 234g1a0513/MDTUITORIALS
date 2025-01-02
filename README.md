@@ -11,3 +11,9 @@ I just love __bold text__.
 A*cat*meow
 This is really***very***important text.
 ## Heading level 2
+<ol>
+  <li>First item</li>
+  <li>Second item</li>
+  <li>Third item</li>
+  <li>Fourth item</li>
+</ol>
