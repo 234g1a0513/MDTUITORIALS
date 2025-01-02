@@ -12,3 +12,4 @@ A*cat*meow
 This is really***very***important text.
 ## Heading level 2
 
+![Screen Shot](pic.png)
