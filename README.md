@@ -17,7 +17,5 @@ This is really***very***important text.
   <li>Third item</li>
   <li>Fourth item</li>
 </ol>
-![Screen Shot](pic)
-![Screen Shot](pic1)
+
 ![Screen Shot](pic.png)
-![pic1](https://github.com/user-attachments/assets/849c2999-8e7e-4cdf-9521-7b45e366e4f9)
