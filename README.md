@@ -17,3 +17,4 @@ This is really***very***important text.
   <li>Third item</li>
   <li>Fourth item</li>
 </ol>
+![Screen Shot](pic)
